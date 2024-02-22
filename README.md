@@ -6,6 +6,11 @@ Chrome extension that adds playback speeds faster than 2x (up to 3.5x) directly 
 &nbsp;
 &nbsp;
 
+Currently working as of February 22nd, 2024 on the browser I use daily: Brave Browser Version 1.56.14 (Chromium: 115.0.5790.114 (Official Build) (x86_64))
+
+&nbsp;
+&nbsp;
+
 <img width="1279" alt="Screenshot_1" src="https://github.com/blessingogunyinka/hyperspeed-youtube/assets/15864404/ced8eac6-10af-47ce-af70-dbc8e0dd71a6">
 
 &nbsp;
