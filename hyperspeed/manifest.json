@@ -1,0 +1,20 @@
+
+
+{  
+    "manifest_version": 3,  
+    "name": "Hyperspeed Youtube",  
+    "version": "1.0",  
+    "description": "Adds playback speeds faster than 2x (up to 3.5x) directly in the Youtube video controller.",
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": {
+        "128": "img/icon_128.png",
+        "16": "img/icon_16.png",
+        "32": "img/icon_32.png",
+        "64": "img/icon_64.png"
+    }
+}
