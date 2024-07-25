@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/blessingogunyinka/hyperspeed-youtube/assets/15864404/7180a127-527c-4dab-9487-6461552df2ab">
+<img src="https://github.com/blessingogunyinka/hyperspeed-youtube/assets/15864404/7180a127-527c-4dab-9487-6461552df2ab">
 
 # Hyperspeed Youtube
 Chrome extension that adds playback speeds faster than 2x (up to 3.5x) directly in the Youtube video controller.
