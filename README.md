@@ -6,7 +6,7 @@ Chrome extension that adds playback speeds faster than 2x (up to 3.5x) directly 
 &nbsp;
 &nbsp;
 
-Currently working as of February 22nd, 2024 on the browser I use daily: Brave Browser Version 1.56.14 (Chromium: 115.0.5790.114 (Official Build) (x86_64))
+Currently working as of February 22nd, 2024 on Brave Browser Version 1.56.14
 
 &nbsp;
 &nbsp;
